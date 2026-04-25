@@ -1,0 +1,3 @@
+[submodule "00_Course_Materials"]
+	path = 00_Course_Materials
+	url = https://github.com/ed-donner/llm_engineering.git
